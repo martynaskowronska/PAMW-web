@@ -1,0 +1,19 @@
+{
+    "label": {
+        "title": "Tytuł",
+        "description": "Opis",
+        "rate": "Oceń"
+    },
+    "button": {
+        "newMovie": "Nowy film",
+        "save": "Zapisz"
+    },
+    "login": {
+        "login": "Zaloguj",
+        "register": "Zarejestruj",
+        "username": "Nazwa uzytkownika",
+        "password": "Hasło",
+        "loginInfo": "Nie masz konta? Zarejestruj się!",
+        "registerInfo": "Masz juz konto? Zaloguj się!"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "label": {
+        "title": "Title",
+        "description": "Description",
+        "rate": "Rate it"
+    },
+    "button": {
+        "newMovie": "New movie",
+        "save": "Save"
+    },
+    "login": {
+        "login": "Login",
+        "register": "Register",
+        "username": "Username",
+        "password": "Password",
+        "loginInfo": "You don't have an account? Register here!",
+        "registerInfo": "You already have an account? Login here!"
+    }
+}
