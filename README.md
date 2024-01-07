@@ -15,11 +15,11 @@ Aplikacja mobilna powinna działać na urządzeniach mobilnych (telefonach/table
 Maksymalna punktacja: 3
 
 #### 3. Udoskonalenie Interfejsu Aplikacji Mobilnej i Webowej - ZREALIZOWANE
-Spójność Wizualna: Jednolite kolory, czcionki i przyciski w całym ekosystemie.
-Wysokiej Jakości Ikony i Grafika.
-Odpowiedź Interfejsu: Długie operacje powinny być sygnalizowane ikoną ładowania.
-Wykorzystanie Gotowych Szablonów: Możliwość stosowania i wdrażania gotowych szablonów.
-Walidacja danych Zrobiona dla UI oraz API Maksymalna punktacja: 8
+* Spójność Wizualna: Jednolite kolory, czcionki i przyciski w całym ekosystemie.
+* Wysokiej Jakości Ikony i Grafika.
+* Odpowiedź Interfejsu: Długie operacje powinny być sygnalizowane ikoną ładowania.
+* Wykorzystanie Gotowych Szablonów: Możliwość stosowania i wdrażania gotowych szablonów.
+* Walidacja danych Zrobiona dla UI oraz API Maksymalna punktacja: 8
 
 #### 4. Ustawienia Użytkownika - ZREALIZOWANE
 Wielojęzyczność: Dodanie obsługi wielu języków, np. angielskiego i polskiego.
