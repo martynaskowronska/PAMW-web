@@ -30,7 +30,7 @@ Maksymalna punktacja: 3
 Implementacja opcji logowania i rejestracji poprzez Facebook, Google, Microsoft.
 Maksymalna punktacja: 4
 
-##### 6. Dostęp do Zasobów Sprzętowych - ZREALIZOWANE
+#### 6. Dostęp do Zasobów Sprzętowych - ZREALIZOWANE
 Aplikacja mobilna powinna umożliwiać dostęp do przynajmniej jednego zasobu sprzętowego (np. kamera, mikrofon, geolokalizacja).
 Maksymalna punktacja: 3
 
